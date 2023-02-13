@@ -1,0 +1,27 @@
+body{
+    padding: 10px;
+    background-color: aqua;
+}
+.contenedor{
+    background-color: brown;
+    padding: 20px;
+    margin: 70px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+p{
+    color: white;
+    text-align: justify;
+}
+footer{
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    font-weight: 600;
+    font-size: 20px;
+    margin: 70px;
+}

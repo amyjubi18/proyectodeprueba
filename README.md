@@ -1,2 +1,4 @@
 # proyectodeprueba
-proyecto de practica
+*proyecto de practica
+*creado por amanda
+
